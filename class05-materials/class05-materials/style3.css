@@ -1,0 +1,44 @@
+
+header,footer{
+    clear: both;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100%;
+    border: solid 1px gray;    
+    background-color: rgb(207, 202, 202);
+}
+
+section{
+    float: left;
+    box-sizing: border-box;
+    height: 200px;
+    width: 100%;    
+    border: solid 1px gray;
+    background-color: rgb(207, 202, 202);
+}
+
+.one{
+    float: left;
+    box-sizing: border-box;
+    height: 300px;
+    width: 20%;    
+    border: solid 1px gray;
+    background-color: rgb(207, 202, 202);
+}
+
+.two{
+    float: left;
+    box-sizing: border-box;
+    height: 300px;
+    width: 40%;    
+    border: solid 1px gray;
+    background-color: rgb(207, 202, 202);
+}
+.three{
+    float: left;
+    box-sizing: border-box;
+    height: 300px;
+    width: 20%;    
+    border: solid 1px gray;
+    background-color: rgb(207, 202, 202);
+}
